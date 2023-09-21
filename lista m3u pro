@@ -47,7 +47,7 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 https://tiofutbol.com/live/live1/chunklist_w1358958416_tkdG9rZW5lbmR0aW1lPTE2OTUyNTQ5ODMmdG9rZW5oYXNoPURpWld2MTU4ZFlaMk1NSEl2LWpFalk2WXEycEhIMUlsOUszX21La2ROY2c9JnRva2Vuc3RhcnR0aW1lPTE2OTUyNDI5ODM=.m3u80
 #EXTINF:-1 tvg-id="LIGA 1 MAX" tvg-logo="https://i.ibb.co/1f2p2N6/liga1.png" group-title="☆☆PERU DEPORTES", Liga 1 Max
 https://pro6.proedge01.xyz/live/ST758c699839f3747.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" tvg-group="☆☆PERU DEPORTES", LIGA1 MAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" group-title="☆☆PERU DEPORTES", LIGA1 MAX
 https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=liga1max
 #EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/1f2p2N6/liga1.png" group-title="☆☆PERU DEPORTES", LIGA 1 PERU
 https://youradexchange.com/ut/hb.php?cb=0.9678116657317533
@@ -97,5 +97,6 @@ https://1118-vos.dtvott.com/DASH/manifest.mpd
 http://pro.ipcover.tv:8080/PeNFSkD8Ax4v/QdADmX5mf2bB/248914
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 HD" tvg-logo="http://pro.ipcover.tv:8080/images/1afd1aca503bb3b484d3788d97a6cf29.png" group-title="☆☆DEPORTES PREMIUN",FOX SPORTS 3 HD
 
-#EXTINF:-1 tvg-id="" tvg-name="PARANAMOUNT CHANEL" tvg-logo="https://i.ibb.co/WsBhsDZ/ar-paramount-channel-m.png" tvg-group="☆☆CINE PREMIUN"", PARANAMOUNT +
+#EXTINF:-1 tvg-id="" tvg-name="PARANAMOUNT CHANEL" tvg-logo="https://i.ibb.co/WsBhsDZ/ar-paramount-channel-m.png" group-title="☆☆CINE PREMIUN"", PARANAMOUNT +
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/600728952b1776000776526d/3063648/playlist.m3u8
+
