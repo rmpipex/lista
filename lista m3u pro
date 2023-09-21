@@ -31,6 +31,7 @@ https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sd
 #EXTINF:-1 tvg-id="" tvg-name="WILLAX" tvg-logo="http://pro.ipcover.tv:8080/images/13f7f5da12b5f185360e51391d2d31d1.jpg" group-title="PERU",WILLAX
 https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmsS88Rn_kBLI10iovtGOWiR0Tqh1qJQoPIJVj0nEK3RZ)/dm/3/x7x4dgx/s/live-1.m3u8
 
+
 #EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/zgEvssl.png" group-title="PERU",Best Cable Mas Cumbia
 https://mi.godo.net.pe/best-MasCum-0102210011/index.m3u8
 #EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://i.imgur.com/PXm4osQ.png" group-title="PERU",Best Cable Music
@@ -49,21 +50,23 @@ https://tiofutbol.com/live/live1/chunklist_w1358958416_tkdG9rZW5lbmR0aW1lPTE2OTU
 https://pro6.proedge01.xyz/live/ST758c699839f3747.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" tvg-group="☆☆PERU DEPORTES", LIGA1 MAX
 https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=liga1max
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/1f2p2N6/liga1.png" tvg-group="☆☆DEPORTES PREMIUN", LIGA 1 PERU
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/1f2p2N6/liga1.png" tvg-group="☆☆PERU DEPORTES", LIGA 1 PERU
 https://youradexchange.com/ut/hb.php?cb=0.9678116657317533
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" tvg-group="☆☆DEPORTES PREMIUN", LIGA 1 MAX
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" tvg-group="☆☆PERU DEPORTES", LIGA 1 MAX
 https://youradexchange.com/ut/hb.php
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/1f2p2N6/liga1.png" tvg-group="☆☆DEPORTES PREMIUN", LIGA 1 PERU
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/1f2p2N6/liga1.png" tvg-group="☆☆PERU DEPORTES", LIGA 1 PERU
 https://pelivechannelsdash-3.clarovideo.com/bpk-tv/LIGA1MAX/dash_fk/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/1f2p2N6/liga1.png" tvg-group="☆☆DEPORTES PREMIUN", LIGA 1 PERU
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/1f2p2N6/liga1.png" tvg-group="☆☆PERU DEPORTES", LIGA 1 PERU
 https://n6.aliflailaaliflaila.com:999/hls/liga1max.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" tvg-group="☆☆DEPORTES PREMIUN", GOL PERU
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" tvg-group="☆☆PERU DEPORTES", GOL PERU
 https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=686
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" tvg-group="☆☆DEPORTES PREMIUN", GOL PERU
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" tvg-group="☆☆PERU DEPORTES", GOL PERU
 https://lb6.mimundoworld.xyz/hls/0OXAb27lt8sNKK-vfr6wq_NnHM2RF38EtTjlR0oTW5zIHrXJcIZMj_Q9a2ie_HX6hBv7-mNYtqHR0cGqcDcWp_NyF90A7MaamLV1Lve2s4oUju1wYOnK1NoKzveMLVuz
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" tvg-group="☆☆DEPORTES PREMIUN", GOL PERU
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" tvg-group="☆☆PERU DEPORTES", GOL PERU
 http://103.145.13.105:8080/live/Marco1/A123/97783.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://pro.ipcover.tv:8080/images/492ecc0770523d11fd4209168dd9454e.png" group-title="☆☆DEPORTES PREMIUN",ESPN
 https://pro6.proedge01.xyz/live/STf828a2ca639622e.m3u8
@@ -97,5 +100,5 @@ https://1118-vos.dtvott.com/DASH/manifest.mpd
 http://pro.ipcover.tv:8080/PeNFSkD8Ax4v/QdADmX5mf2bB/248914
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 HD" tvg-logo="http://pro.ipcover.tv:8080/images/1afd1aca503bb3b484d3788d97a6cf29.png" group-title="☆☆DEPORTES PREMIUN",FOX SPORTS 3 HD
 
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS HD" tvg-logo="https://i.ibb.co/WsBhsDZ/ar-paramount-channel-m.png" tvg-group="PERU", PARANAMOUNT +
+#EXTINF:-1 tvg-id="" tvg-name="PARANAMOUNT CHANEL" tvg-logo="https://i.ibb.co/WsBhsDZ/ar-paramount-channel-m.png" tvg-group="☆☆CINE PREMIUN"", PARANAMOUNT +
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/600728952b1776000776526d/3063648/playlist.m3u8
