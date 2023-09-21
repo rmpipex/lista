@@ -101,11 +101,11 @@ http://pro.ipcover.tv:8080/PeNFSkD8Ax4v/QdADmX5mf2bB/248918
 #EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS HD" tvg-logo="http://pro.ipcover.tv:8080/images/9633b2389f88d7771b9d67438cfefbd8.png" group-title="☆☆DEPORTES PREMIUN",ESPN PLUS HD
 http://pro.ipcover.tv:8080/PeNFSkD8Ax4v/QdADmX5mf2bB/248919
 
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="http://pro.ipcover.tv:8080/images/660bda30a1382c10bb421f4274fc5608.png" group-title="☆☆DEPORTES PREMIUN",DIRECTV SPORTS
-https://e9.ainakwalajeen.com:999/hls/directvlive.m3u8?md5=oUlidaFq2TdJX_am8wZy5w&expires=1695255554
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 HD" tvg-logo="http://pro.ipcover.tv:8080/images/660bda30a1382c10bb421f4274fc5608.png" group-title="☆☆DEPORTES PREMIUN",DIRECTV SPORTS 2 HD
-http://pro.ipcover.tv:8080/PeNFSkD8Ax4v/QdADmX5mf2bB/248920
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS HD" tvg-logo="http://pro.ipcover.tv:8080/images/d799fef6bf05b4348b62ffa26b41ae90.png" group-title="☆☆DEPORTES PREMIUN",DIRECTV SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://www.trecebits.com/wp-content/uploads/2023/06/DirecTV-Sports-1.webp" group-title="☆☆DEPORTES PREMIUN", DIRECTV SPORTS
+https://e9.ainakwalajeen.com:999/hls/directvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 HD" tvg-logo="http://pro.ipcover.tv:8080/images/660bda30a1382c10bb421f4274fc5608.png" group-title="☆☆DEPORTES PREMIUN", DIRECTV SPORTS 2 HD
+https://1059-vos.dtvott.com/DASH/stream_07/1691051859761_init.m4i
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS HD" tvg-logo="http://pro.ipcover.tv:8080/images/d799fef6bf05b4348b62ffa26b41ae90.png" group-title="☆☆DEPORTES PREMIUN", DIRECTV SPORTS HD
 https://pro6.proedge01.xyz/live/STd3bc37caa622ec1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS PLUS HD" tvg-logo="http://pro.ipcover.tv:8080/images/7068abfefc5cb27c90e12b7205361433.png" group-title="☆☆DEPORTES PREMIUN",DIRECTV SPORTS PLUS HD
 http://pro.ipcover.tv:8080/PeNFSkD8Ax4v/QdADmX5mf2bB/248922
