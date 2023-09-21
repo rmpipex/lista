@@ -2,12 +2,10 @@
 #EXTINF:-1 tvg-id="LATINA" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="PERU",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 
-#EXTINF:-1 tvg-id="AMERICA TV" tvg-logo="http://pro.ipcover.tv:8080/images/f933d2f98b1274645397ad05a253ffe5.png" group-title="PERU",America TV
+#EXTINF:-1 tvg-id="AMERICA TV" tvg-logo="https://i.ibb.co/bPKWXGc/america.jpg" group-title="PERU",America TV
 http://home-playtv.com:8080/live/104walter000/NJVFY/102643.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://i.ibb.co/bPKWXGc/america.jpg" group-title="PERU", AMERICA TV PERU
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://i.ibb.co/bPKWXGc/america.jpg" group-title="PERU", AMERICA Tv
 https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_1800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://i.ibb.co/bBVVr72/tvperu.png" group-title="PERU", TV PERU
-https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index.m3u8
 
 #EXTINF:-1 tvg-id="PANAMERICANA" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="PERU",Panamericana TV
 https://cdn75.iblups.com/hls/stream.m3u8
@@ -20,6 +18,8 @@ https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/ind
 https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_2.m3u8
 #EXTINF:-1 tvg-id="TV PERU NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="PERU",TV Peru Noticias
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV PERU NOTICIAS" tvg-logo="https://i.ibb.co/bBVVr72/tvperu.png" group-title="PERU", TV Peru Noticias
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="PERU",ATV HD
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
@@ -97,6 +97,5 @@ https://1118-vos.dtvott.com/DASH/manifest.mpd
 http://pro.ipcover.tv:8080/PeNFSkD8Ax4v/QdADmX5mf2bB/248914
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 HD" tvg-logo="http://pro.ipcover.tv:8080/images/1afd1aca503bb3b484d3788d97a6cf29.png" group-title="☆☆DEPORTES PREMIUN",FOX SPORTS 3 HD
 
-#EXTINF:-1 tvg-id="" tvg-name="PARANAMOUNT CHANEL" tvg-logo="https://i.ibb.co/WsBhsDZ/ar-paramount-channel-m.png" group-title="☆☆CINE PREMIUN"", PARANAMOUNT +
+#EXTINF:-1 tvg-id="" tvg-name="PARANAMOUNT CHANEL" tvg-logo="https://i.ibb.co/WsBhsDZ/ar-paramount-channel-m.png" group-title="☆☆CINE PREMIUN", PARANAMOUNT +
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/600728952b1776000776526d/3063648/playlist.m3u8
-
