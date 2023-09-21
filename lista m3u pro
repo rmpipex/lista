@@ -31,13 +31,15 @@ https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sd
 #EXTINF:-1 tvg-id="WILLAX" tvg-logo="http://consejoprensaperuana.org.pe/archivos/Logo-Willax.png" group-title="PERU", WILLAX
 https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmrwE2DhRkB-JMmUJL5OYh76JbMqeWX7X1Ca7apqihdm5)/dm/3/x7x4dgx/s/live-1.m3u8
 
-#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/zgEvssl.png" group-title="PERU", Best Cable Mas Cumbia
+#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/zgEvssl.png" group-title="PERU", Hatun TV Canal 99
+https://mi.godo.net.pe/Best00Hatum-0032101002/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/zgEvssl.png" group-title="PERU", Best Cable Mas Cumbia Canal 98
 https://mi.godo.net.pe/best-MasCum-0102210011/index.m3u8
-#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://i.imgur.com/PXm4osQ.png" group-title="PERU", Best Cable Music
+#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://i.imgur.com/PXm4osQ.png" group-title="PERU", Best Cable Music Canal 97
 https://mi.godo.net.pe/best-Music-00112000050/index.m3u8
-#EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="PERU", Best Cable Peru
+#EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="PERU", Best Cable Peru Canal 3
 https://mi.godo.net.pe/BesTv-001120000100/index.m3u8
-#EXTINF:-1 tvg-id="BestCableSportsPeru.pe" tvg-logo="https://i.imgur.com/nflqmSC.png" group-title="☆☆PERU DEPORTES", Best Cable Sports Peru
+#EXTINF:-1 tvg-id="BestCableSportsPeru.pe" tvg-logo="https://i.imgur.com/nflqmSC.png" group-title="☆☆PERU DEPORTES", Best Cable Sports Peru Canal 6
 https://mi.godo.net.pe/Best-sport-00000x111/index.m3u8
 
 #EXTINF:-1 tvg-id="NATIVA" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="☆☆PERU DEPORTES", Nativa
