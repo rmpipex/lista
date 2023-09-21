@@ -31,7 +31,6 @@ https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sd
 #EXTINF:-1 tvg-id="" tvg-name="WILLAX" tvg-logo="http://pro.ipcover.tv:8080/images/13f7f5da12b5f185360e51391d2d31d1.jpg" group-title="PERU",WILLAX
 https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmsS88Rn_kBLI10iovtGOWiR0Tqh1qJQoPIJVj0nEK3RZ)/dm/3/x7x4dgx/s/live-1.m3u8
 
-
 #EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/zgEvssl.png" group-title="PERU",Best Cable Mas Cumbia
 https://mi.godo.net.pe/best-MasCum-0102210011/index.m3u8
 #EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://i.imgur.com/PXm4osQ.png" group-title="PERU",Best Cable Music
@@ -65,8 +64,6 @@ https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=686
 https://lb6.mimundoworld.xyz/hls/0OXAb27lt8sNKK-vfr6wq_NnHM2RF38EtTjlR0oTW5zIHrXJcIZMj_Q9a2ie_HX6hBv7-mNYtqHR0cGqcDcWp_NyF90A7MaamLV1Lve2s4oUju1wYOnK1NoKzveMLVuz
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", GOL PERU
 http://103.145.13.105:8080/live/Marco1/A123/97783.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://pro.ipcover.tv:8080/images/492ecc0770523d11fd4209168dd9454e.png" group-title="☆☆DEPORTES PREMIUN",ESPN
 https://pro6.proedge01.xyz/live/STf828a2ca639622e.m3u8
