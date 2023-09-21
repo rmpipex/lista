@@ -32,6 +32,15 @@ https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sd
 https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmrwE2DhRkB-JMmUJL5OYh76JbMqeWX7X1Ca7apqihdm5)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 tvg-id="KARIBEÑA" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="PERU", Karibeña
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1 tvg-id="EXITOSA TV" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="PERU", Exitosa TV
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Radio Oxigeno" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ns3bnMSxg9.jpeg" group-title="☆☆PERU RADIOS", Radio Oxigeno
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio La Zona 90.5 FM" tvg-logo="https://peru.mom-gmr.org/typo3temp/_processed_/9/6/csm_2021-205_import_88acd5078c.png" group-title="☆☆PERU RADIOS", Radio La Zona 90.50 FM
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio Studio 92" tvg-logo="https://md1.rpp-noticias.io/510x286/cutter/2022/12/05/1670278751.jpg" group-title="☆☆PERU RADIOS", Radio Studio 92
+https://us-b5-p-e-wo1-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/zgEvssl.png" group-title="PERU", Hatun TV Canal 99
 https://mi.godo.net.pe/Best00Hatum-0032101002/tracks-v1a1/mono.m3u8
