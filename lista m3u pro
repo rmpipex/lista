@@ -36,6 +36,8 @@ https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmrwE2DhRkB-JMmUJL5
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-id="EXITOSA TV" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="PERU", Exitosa TV
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VISION TV MUSICA" tvg-logo="https://online-television.net/uploads/posts/2022-11/thumbs/vision-tv-musica.webp" group-title="PERU", Vision TV Musica
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w1547254656.m3u8
 
 #EXTINF:-1 tvg-id="Radio Oxigeno" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/oxigeno.png" group-title="☆☆PERU RADIOS", Radio Oxigeno
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c
@@ -65,7 +67,7 @@ https://mi.godo.net.pe/Best-sport-00000x111/index.m3u8
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="LIGA 1 MAX" tvg-logo="https://i.ibb.co/1f2p2N6/liga1.png" group-title="☆☆PERU DEPORTES", Liga 1 Max
-https://tiofutbol.com/live/live1/chunklist_w1358958416_tkdG9rZW5lbmR0aW1lPTE2OTUyNTQ5ODMmdG9rZW5oYXNoPURpWld2MTU4ZFlaMk1NSEl2LWpFalk2WXEycEhIMUlsOUszX21La2ROY2c9JnRva2Vuc3RhcnR0aW1lPTE2OTUyNDI5ODM=.m3u80
+https://cdn3.tiogol.com/liveedge/live1/chunklist_w457442208_tkdG9rZW5lbmR0aW1lPTE2OTUzMTg5MDgmdG9rZW5oYXNoPXZjV0c0S2QzTmtZaXNHM2NMdDF0Zkh5bEZRZGY5eTBjazdpV0VMME93WFU9JnRva2Vuc3RhcnR0aW1lPTE2OTUzMDY5MDg=.m3u8
 #EXTINF:-1 tvg-id="LIGA 1 MAX" tvg-logo="https://i.ibb.co/1f2p2N6/liga1.png" group-title="☆☆PERU DEPORTES", Liga 1 Max
 https://pro6.proedge01.xyz/live/ST758c699839f3747.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" group-title="☆☆PERU DEPORTES", LIGA1 MAX
@@ -80,11 +82,13 @@ https://pelivechannelsdash-3.clarovideo.com/bpk-tv/LIGA1MAX/dash_fk/index.mpd
 https://n6.aliflailaaliflaila.com:999/hls/liga1max.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", GOL PERU
-https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=686
+https://channels123.futbolenvivo.xyz/streams3/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="☆☆PERU DEPORTES", GOL PERU
 https://cdn2.tiogol.com/liveedge/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", GOL PERU
 http://103.145.13.105:8080/live/Marco1/A123/97783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", GOL PERU
+https://cdn1.tiogol.com/liveedge/live1/chunklist_w1875630978_tkdG9rZW5lbmR0aW1lPTE2OTUzMTkwMjcmdG9rZW5oYXNoPW1CWGdMN3N3eTBYd3hWZWV2Qm9xd2RqREd4UkVEQXhtRWhsREJFdmEweHM9JnRva2Vuc3RhcnR0aW1lPTE2OTUzMDcwMjc=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://pro.ipcover.tv:8080/images/492ecc0770523d11fd4209168dd9454e.png" group-title="☆☆DEPORTES PREMIUN",ESPN
 https://pro6.proedge01.xyz/live/STf828a2ca639622e.m3u8
