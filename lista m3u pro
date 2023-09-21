@@ -45,6 +45,8 @@ https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5
 https://cpliv3.onliv3.com/stream/radiozeta
 #EXTINF:-1 tvg-id="Radio OASIS Rock & Pop" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/oasis.png" group-title="☆☆PERU RADIOS", Radio OASIS Rock & Pop
 https://14123.live.streamtheworld.com/CRP_OAS_SC
+#EXTINF:-1 tvg-id="Radio MODA" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/moda.png" group-title="☆☆PERU RADIOS", Radio MODA Te mueve
+https://25063.live.streamtheworld.com/CRP_MOD_SC
 
 #EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/zgEvssl.png" group-title="PERU", Hatun TV Canal 99
 https://mi.godo.net.pe/Best00Hatum-0032101002/tracks-v1a1/mono.m3u8
