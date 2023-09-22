@@ -4,9 +4,11 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 
 #EXTINF:-1 tvg-id="AMERICA TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU", 02► America TV
 http://home-playtv.com:8080/live/104walter000/NJVFY/102643.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU", 03► America TV SD
+#EXTINF:-1 tvg-id="America TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0", 02► America TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_1800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU", 04► America TV HD
+#EXTINF:-1 tvg-id="America TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0", 03► America TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8
 
 #EXTINF:-1 tvg-id="PANAMERICANA" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="PERU", 05► Panamericana TV
