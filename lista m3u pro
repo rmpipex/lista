@@ -79,15 +79,16 @@ https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=liga1max
 #EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" group-title="☆☆PERU DEPORTES", 02► Liga 1 Max
 https://channels123.futbolenvivo.xyz/streams4/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" group-title="☆☆PERU DEPORTES", 03► Liga 1 Max
-https://cdn2.tiogol.com/liveedge/live1/chunklist_w1059059783_tkdG9rZW5lbmR0aW1lPTE2OTU0MTgxNDQmdG9rZW5oYXNoPXRXTWloRl9rOVJPVDRCWHNkbF9nbEFDc2dyOGNPLXFYQnk2aGlGOVpUT1U9JnRva2Vuc3RhcnR0aW1lPTE2OTU0MDYxNDQ=.m3u8?clientIP=190.236.204.253
+https://cdn2.tiogol.com/liveedge/live1/chunklist_w1059059783_tkdG9rZW5lbmR0aW1lPTE2OTU0MTgxNDQmdG9rZW5oYXNoPXRXTWloRl9rOVJPVDRCWHNkbF9nbEFDc2dyOGNPLXFYQnk2aGlGOVpUT1U9JnRva2Vuc3RhcnR0aW1lPTE2OTU0MDYxNDQ=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" group-title="☆☆PERU DEPORTES", 04► Liga 1 Max
 https://cdn2.tiogol.com/liveedge/live1/chunklist_w1059059783_tkdG9rZW5lbmR0aW1lPTE2OTU0MTgxNDQmdG9rZW5oYXNoPXRXTWloRl9rOVJPVDRCWHNkbF9nbEFDc2dyOGNPLXFYQnk2aGlGOVpUT1U9JnRva2Vuc3RhcnR0aW1lPTE2OTU0MDYxNDQ=.m3u8?clientIP=190.236.204.253
 
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES" User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36, 05► GOL PERU
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES" http-user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36, 05► GOL PERU
 https://e5.ainakwalajeen.com:999/hls/golperusd.m3u8?md5=8d9pxXokTDt4Zldn4ZkDiw&expires=1695418217
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 06► GOL PERU
 https://rmydhkwzagtpufex.cdnessential.net:8443/hls/9jjlwym.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES" User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36, 07► GOL PERU
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 07► GOL PERU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 https://e5.ainakwalajeen.com:999/hls/golperusd.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://pro.ipcover.tv:8080/images/492ecc0770523d11fd4209168dd9454e.png" group-title="☆☆DEPORTES PREMIUN",ESPN
@@ -124,3 +125,5 @@ http://pro.ipcover.tv:8080/PeNFSkD8Ax4v/QdADmX5mf2bB/248914
 
 #EXTINF:-1 tvg-id="" tvg-name="PARANAMOUNT CHANEL" tvg-logo="https://i.ibb.co/WsBhsDZ/ar-paramount-channel-m.png" group-title="☆☆CINE PREMIUN", PARANAMOUNT +
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/600728952b1776000776526d/3063648/playlist.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name= "HBO_PLUS_HD tvg-logo="https://www.foromedios.com/uploads/gallery/album_1/gallery_1157_1_11888.png" group-title="☆☆CINE PREMIUN", HBO_PLUS_HD
+#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/Stream(01)/index.m3u8
