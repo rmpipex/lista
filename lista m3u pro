@@ -7,11 +7,11 @@ http://home-playtv.com:8080/live/104walter000/NJVFY/102643.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU", 03► America TV SD
-https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_1800.m3u8?id=5b8ea6f89ff52d0770a144c4
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_1800.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU", 04► America TV HD
-https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8?id=5b8ea6f89ff52d0770a144c4&uid
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8
 
 #EXTINF:-1 tvg-id="PANAMERICANA" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="PERU", 05► Panamericana TV
 https://cdn75.iblups.com/hls/stream.m3u8
