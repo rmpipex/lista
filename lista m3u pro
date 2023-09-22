@@ -47,6 +47,8 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VISION TV MUSICA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png" group-title="PERU", Vision TV Musica
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w1547254656.m3u8
+#EXTINF:-1 tvg-id="CANAL RPP" tvg-logo="http://logowow.net/logos/thumb-fDocFft2r.png" group-title="PERU", Canal RPP
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:-1 tvg-id="Radio Oxigeno" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/oxigeno.png" group-title="☆☆PERU RADIOS", Radio Oxigeno
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c
@@ -94,15 +96,17 @@ https://rmydhkwzagtpufex.cdnessential.net:8443/hls/9jjlwym.m3u8
 https://e5.ainakwalajeen.com:999/hls/golperusd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://pro.ipcover.tv:8080/images/492ecc0770523d11fd4209168dd9454e.png" group-title="☆☆DEPORTES PREMIUN",ESPN
-https://pro6.proedge01.xyz/live/STf828a2ca639622e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://pro.ipcover.tv:8080/images/492ecc0770523d11fd4209168dd9454e.png" group-title="☆☆DEPORTES PREMIUN",ESPN
-https://pro6.proedge01.xyz/live/STf828a2ca639622e.m3u8
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://pro.ipcover.tv:8080/images/492ecc0770523d11fd4209168dd9454e.png" group-title="☆☆DEPORTES PREMIUN",ESPN HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u88
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD" tvg-logo="http://pro.ipcover.tv:8080/images/492ecc0770523d11fd4209168dd9454e.png" group-title="☆☆DEPORTES PREMIUN",ESPN 1 HD
 http://pro.ipcover.tv:8080/PeNFSkD8Ax4v/QdADmX5mf2bB/248916
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="http://pro.ipcover.tv:8080/images/4317f1d5893d42aba6e9e9d17dd8ccd7.png" group-title="☆☆DEPORTES PREMIUN",ESPN 2 HD
-http://pro.ipcover.tv:8080/PeNFSkD8Ax4v/QdADmX5mf2bB/248917
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="http://pro.ipcover.tv:8080/images/4317f1d5893d42aba6e9e9d17dd8ccd7.png" group-title="☆☆DEPORTES PREMIUN",ESPN 2 HD
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="http://pro.ipcover.tv:8080/images/6fbf00c6d165474f2937aca7da3d5f84.png" group-title="☆☆DEPORTES PREMIUN",ESPN 3 HD
-http://pro.ipcover.tv:8080/PeNFSkD8Ax4v/QdADmX5mf2bB/248918
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS HD" tvg-logo="http://pro.ipcover.tv:8080/images/9633b2389f88d7771b9d67438cfefbd8.png" group-title="☆☆DEPORTES PREMIUN",ESPN PLUS HD
 http://pro.ipcover.tv:8080/PeNFSkD8Ax4v/QdADmX5mf2bB/248919
 
