@@ -88,8 +88,10 @@ https://e5.ainakwalajeen.com:999/hls/golperusd.m3u8?md5=8d9pxXokTDt4Zldn4ZkDiw&e
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 06► GOL PERU
 https://rmydhkwzagtpufex.cdnessential.net:8443/hls/9jjlwym.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 07► GOL PERU
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://e5.ainakwalajeen.com:999/hls/golperusd.m3u8?
+https://e5.ainakwalajeen.com:999/hls/golperusd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://pro.ipcover.tv:8080/images/492ecc0770523d11fd4209168dd9454e.png" group-title="☆☆DEPORTES PREMIUN",ESPN
 https://pro6.proedge01.xyz/live/STf828a2ca639622e.m3u8
