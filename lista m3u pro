@@ -84,11 +84,11 @@ https://cdn2.tiogol.com/liveedge/live1/chunklist_w1059059783_tkdG9rZW5lbmR0aW1lP
 https://cdn2.tiogol.com/liveedge/live1/chunklist_w1059059783_tkdG9rZW5lbmR0aW1lPTE2OTU0MTgxNDQmdG9rZW5oYXNoPXRXTWloRl9rOVJPVDRCWHNkbF9nbEFDc2dyOGNPLXFYQnk2aGlGOVpUT1U9JnRva2Vuc3RhcnR0aW1lPTE2OTU0MDYxNDQ=.m3u8?clientIP=190.236.204.253
 
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES" User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36, 05► GOL PERU
-https://e5.ainakwalajeen.com:999/hls/golperusd.m3u8
+https://e5.ainakwalajeen.com:999/hls/golperusd.m3u8?md5=8d9pxXokTDt4Zldn4ZkDiw&expires=1695418217
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 06► GOL PERU
 https://rmydhkwzagtpufex.cdnessential.net:8443/hls/9jjlwym.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 07► GOL PERU
-https://e5.ainakwalajeen.com:999/hls/golperusd.m3u8?md5=8d9pxXokTDt4Zldn4ZkDiw&expires=1695418217
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES" User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36, 07► GOL PERU
+https://e5.ainakwalajeen.com:999/hls/golperusd.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://pro.ipcover.tv:8080/images/492ecc0770523d11fd4209168dd9454e.png" group-title="☆☆DEPORTES PREMIUN",ESPN
 https://pro6.proedge01.xyz/live/STf828a2ca639622e.m3u8
