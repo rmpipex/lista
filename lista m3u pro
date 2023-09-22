@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LATINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/125px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", ◄01► Latina
+#EXTINF:-1 tvg-id="LATINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/125px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 01► Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 
-#EXTINF:-1 tvg-id="AMERICA TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU", 01► America TV
+#EXTINF:-1 tvg-id="AMERICA TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU", 02► America TV
 http://home-playtv.com:8080/live/104walter000/NJVFY/102643.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU", 02► America TV
-https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU", 03► America TV
-https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU", 03► America TV SD
+https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_1800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU", 04► America TV HD
+https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8
 
-#EXTINF:-1 tvg-id="PANAMERICANA" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="PERU", 01► Panamericana TV
+#EXTINF:-1 tvg-id="PANAMERICANA" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="PERU", 05► Panamericana TV
 https://cdn75.iblups.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PANAMERICANA" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="PERU", 02► Panamericana TV SD
+#EXTINF:-1 tvg-id="PANAMERICANA" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="PERU", 06► Panamericana TV SD
 https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFpKJUlo0ofDmIqUw3HutgyY7apLjpBouOOev9uWTLdEd)/dm/3/x774s7s/s/live-0.m3u8
-#EXTINF:-1 tvg-id="PANAMERICANA" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="PERU", 03► Panamericana TV HD
+#EXTINF:-1 tvg-id="PANAMERICANA" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="PERU", 07► Panamericana TV HD
 https://cdn75.iblups.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="TV PERU" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="PERU", TV Peru
