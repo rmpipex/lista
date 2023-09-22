@@ -17,8 +17,10 @@ https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFpKJUlo0ofDmIqUw3H
 https://cdn75.iblups.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://pbs.twimg.com/profile_images/1529495753399357442/mU1hHYMj_400x400.jpg" group-title="PERU", 08► Canal N
+https://live.telelatinohd.com:8080/MTkwLjIzNi4yMDQuMjUz/304_2741.ts
+#EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://pbs.twimg.com/profile_images/1529495753399357442/mU1hHYMj_400x400.jpg" group-title="PERU", 09► Canal N
 https://live.telelatinohd.com:8080/MTkwLjIzNi4yMDQuMjUz/197_.m3u8?token=_dmmo_T5a5luImTFwNM9cw&expires=1695415697
-#EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://pbs.twimg.com/profile_images/1529495753399357442/mU1hHYMj_400x400.jpg" group-title="PERU", 09► Canal N HD
+#EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://pbs.twimg.com/profile_images/1529495753399357442/mU1hHYMj_400x400.jpg" group-title="PERU", 10► Canal N HD
 https://live.telelatinohd.com:8080/MTkwLjIzNi4yMDQuMjUz/304_.m3u8?token=qxdEKcZSuiVW0cdaeEDG6g&expires=1695416729
 
 #EXTINF:-1 tvg-id="TV PERU" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="PERU", TV Peru
