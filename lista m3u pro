@@ -4,8 +4,10 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU", 02► America TV
 http://home-playtv.com:8080/live/104walter000/NJVFY/102643.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU", 03► America TV
 https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_1800.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU", 04► America TV
 https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8
 
@@ -89,10 +91,10 @@ https://cdn2.tiogol.com/liveedge/live1/chunklist_w1059059783_tkdG9rZW5lbmR0aW1lP
 https://e5.ainakwalajeen.com:999/hls/golperusd.m3u8?md5=8d9pxXokTDt4Zldn4ZkDiw&expires=1695418217
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 06► GOL PERU
 https://rmydhkwzagtpufex.cdnessential.net:8443/hls/9jjlwym.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 07► GOL PERU
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 https://e5.ainakwalajeen.com:999/hls/golperusd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://pro.ipcover.tv:8080/images/492ecc0770523d11fd4209168dd9454e.png" group-title="☆☆DEPORTES PREMIUN",ESPN
