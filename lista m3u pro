@@ -129,3 +129,6 @@ http://pro.ipcover.tv:8080/PeNFSkD8Ax4v/QdADmX5mf2bB/248914
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/600728952b1776000776526d/3063648/playlist.m3u8
 #EXTINF:-1 tvg-shift=0 tvg-name= "HBO_PLUS_HD tvg-logo="https://www.foromedios.com/uploads/gallery/album_1/gallery_1157_1_11888.png" group-title="☆☆CINE PREMIUN", HBO_PLUS_HD
 #EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 channel-id="pluto-64666345f3f5b1000882bfb4" tvg-id="64666345f3f5b1000882bfb4" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" tvg-chno="1271" group-title="ANIME & GAMING" , Captain Tsubasa
+https://i.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
