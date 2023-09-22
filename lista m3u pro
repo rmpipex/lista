@@ -74,9 +74,9 @@ https://mi.godo.net.pe/Best-sport-00000x111/index.m3u8
 #EXTINF:-1 tvg-id="NATIVA" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="☆☆PERU DEPORTES", Nativa
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" group-title="☆☆PERU DEPORTES", 01► Liga 1 Max
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" group-title="☆☆PERU DEPORTES", 01► Liga 1 Max
 https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=liga1max
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" group-title="☆☆PERU DEPORTES", 02► Liga 1 Max
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" group-title="☆☆PERU DEPORTES", 02► Liga 1 Max
 https://channels123.futbolenvivo.xyz/streams4/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" group-title="☆☆PERU DEPORTES", 03► Liga 1 Max
 https://cdn2.tiogol.com/liveedge/live1/chunklist_w1059059783_tkdG9rZW5lbmR0aW1lPTE2OTU0MTgxNDQmdG9rZW5oYXNoPXRXTWloRl9rOVJPVDRCWHNkbF9nbEFDc2dyOGNPLXFYQnk2aGlGOVpUT1U9JnRva2Vuc3RhcnR0aW1lPTE2OTU0MDYxNDQ=.m3u8?clientIP=190.236.204.253
