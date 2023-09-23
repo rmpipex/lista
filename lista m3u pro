@@ -11,8 +11,6 @@ https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd7
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU", 04► America TV
 https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8
 
-#EXTINF:-1 tvg-id="PANAMERICANA" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="PERU", 05► Panamericana TV
-https://cdn75.iblups.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PANAMERICANA" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="PERU", 06► Panamericana TV SD
 https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFpKJUlo0ofDmIqUw3HutgyY7apLjpBouOOev9uWTLdEd)/dm/3/x774s7s/s/live-0.m3u8
 #EXTINF:-1 tvg-id="PANAMERICANA" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="PERU", 07► Panamericana TV HD
