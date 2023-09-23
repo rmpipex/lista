@@ -16,37 +16,37 @@ https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFpKJUlo0ofDmIqUw3H
 #EXTINF:-1 tvg-id="PANAMERICANA" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="PERU", 06► Panamericana TV HD
 https://cdn75.iblups.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://pbs.twimg.com/profile_images/1529495753399357442/mU1hHYMj_400x400.jpg" group-title="PERU", 07► Canal N
-https://live.telelatinohd.com:8080/MTkwLjIzNi4yMDQuMjUz/197_.m3u8?token=_dmmo_T5a5luImTFwNM9cw&expires=1695415697
-#EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://pbs.twimg.com/profile_images/1529495753399357442/mU1hHYMj_400x400.jpg" group-title="PERU", 08► Canal N HD
-https://live.telelatinohd.com:8080/MTkwLjIzNi4yMDQuMjUz/304_.m3u8?token=qxdEKcZSuiVW0cdaeEDG6g&expires=1695416729
-
-#EXTINF:-1 tvg-id="TV PERU" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="PERU", TV Peru
+#EXTINF:-1 tvg-id="TV PERU" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="PERU", 07► TV Peru
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
-#EXTINF:-1 tvg-id="TV Peru Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="PERU", TV Peru Internacional
+#EXTINF:-1 tvg-id="TV Peru Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="PERU", 08► TV Peru Internacional
 https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_2.m3u8
-#EXTINF:-1 tvg-id="TV PERU NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="PERU", TV Peru Noticias
+#EXTINF:-1 tvg-id="TV PERU NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="PERU", 09► TV Peru Noticias
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV PERU NOTICIAS" tvg-logo="https://i.ibb.co/bBVVr72/tvperu.png" group-title="PERU", TV Peru Noticias
+#EXTINF:-1 tvg-id="" tvg-name="TV PERU NOTICIAS" tvg-logo="https://i.ibb.co/bBVVr72/tvperu.png" group-title="PERU", 10► TV Peru Noticias
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index.m3u8
 
-#EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="PERU", ATV HD
+#EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="PERU", 11► ATV HD
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV+" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="PERU", ATV+
+#EXTINF:-1 tvg-id="ATV+" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="PERU", 12► ATV+
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV SUR" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="PERU", ATV Sur
+#EXTINF:-1 tvg-id="ATV SUR" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="PERU", 13► ATV Sur
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WILLAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", Willax
+#EXTINF:-1 tvg-id="WILLAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 14► Willax
 https://stream-03.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmhOvHoU034ja75MkenYSdAJ7sF5ekV7gIICytAb021iT)/dm/3/x7x4dgx/s/live-1.m3u8
-#EXTINF:-1 tvg-id="KARIBEÑA" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="PERU", Karibeña
+#EXTINF:-1 tvg-id="KARIBEÑA" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="PERU", 15► Karibeña
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 tvg-id="EXITOSA TV" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="PERU", Exitosa TV
+#EXTINF:-1 tvg-id="EXITOSA TV" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="PERU", 16► Exitosa TV
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="VISION TV MUSICA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png" group-title="PERU", Vision TV Musica
+#EXTINF:-1 tvg-id="VISION TV MUSICA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png" group-title="PERU", 17► Vision TV Musica
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w1547254656.m3u8
-#EXTINF:-1 tvg-id="CANAL RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RPP_logo.png/617px-RPP_logo.png" group-title="PERU", Canal RPP
+#EXTINF:-1 tvg-id="CANAL RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RPP_logo.png/617px-RPP_logo.png" group-title="PERU", 18► Canal RPP
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://pbs.twimg.com/profile_images/1529495753399357442/mU1hHYMj_400x400.jpg" group-title="PERU", 19► Canal N
+https://live.telelatinohd.com:8080/MTkwLjIzNi4yMDQuMjUz/197_.m3u8?token=_dmmo_T5a5luImTFwNM9cw&expires=1695415697
+#EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://pbs.twimg.com/profile_images/1529495753399357442/mU1hHYMj_400x400.jpg" group-title="PERU", 20► Canal N HD
+https://live.telelatinohd.com:8080/MTkwLjIzNi4yMDQuMjUz/304_.m3u8?token=qxdEKcZSuiVW0cdaeEDG6g&expires=1695416729
 
 #EXTINF:-1 tvg-id="Radio Oxigeno" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/oxigeno.png" group-title="☆☆PERU RADIOS", Radio Oxigeno
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c
