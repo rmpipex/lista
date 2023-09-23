@@ -48,17 +48,17 @@ https://live.telelatinohd.com:8080/MTkwLjIzNi4yMDQuMjUz/197_.m3u8?token=_dmmo_T5
 #EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://pbs.twimg.com/profile_images/1529495753399357442/mU1hHYMj_400x400.jpg" group-title="PERU", 20► Canal N HD
 https://live.telelatinohd.com:8080/MTkwLjIzNi4yMDQuMjUz/304_.m3u8?token=qxdEKcZSuiVW0cdaeEDG6g&expires=1695416729
 
-#EXTINF:-1 tvg-id="Radio Oxigeno" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/oxigeno.png" group-title="☆☆PERU RADIOS", Radio Oxigeno
+#EXTINF:-1 tvg-id="Radio Oxigeno" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/oxigeno.png" group-title="RADIO ONLINE", Radio Oxigeno
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c
-#EXTINF:-1 tvg-id="Radio La Zona 90.5 FM" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/la-zona.png" group-title="☆☆PERU RADIOS", Radio La Zona 90.50 FM
+#EXTINF:-1 tvg-id="Radio La Zona 90.5 FM" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/la-zona.png" group-title="RADIO ONLINE", Radio La Zona 90.50 FM
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5
-#EXTINF:-1 tvg-id="Radio Studio 92" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/studio.png" group-title="☆☆PERU RADIOS", Radio Studio 92
+#EXTINF:-1 tvg-id="Radio Studio 92" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/studio.png" group-title="RADIO ONLINE", Radio Studio 92
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea
-#EXTINF:-1 tvg-id="Radio Z Rock & Pop" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/z-lima.png" group-title="☆☆PERU RADIOS", Radio Z Rock & Pop
+#EXTINF:-1 tvg-id="Radio Z Rock & Pop" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/z-lima.png" group-title="RAIO ONLINE", Radio Z Rock & Pop
 https://cpliv3.onliv3.com/stream/radiozeta
-#EXTINF:-1 tvg-id="Radio OASIS Rock & Pop" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/oasis.png" group-title="☆☆PERU RADIOS", Radio OASIS Rock & Pop
+#EXTINF:-1 tvg-id="Radio OASIS Rock & Pop" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/oasis.png" group-title="RADIO ONLINE", Radio OASIS Rock & Pop
 https://14123.live.streamtheworld.com/CRP_OAS_SC
-#EXTINF:-1 tvg-id="Radio MODA" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/moda.png" group-title="☆☆PERU RADIOS", Radio MODA Te mueve
+#EXTINF:-1 tvg-id="Radio MODA" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/moda.png" group-title="RADIO ONLINE", Radio MODA Te mueve
 https://25063.live.streamtheworld.com/CRP_MOD_SC
 
 #EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/zgEvssl.png" group-title="PERU", Hatun TV Canal 99
