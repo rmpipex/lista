@@ -39,7 +39,7 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-id="EXITOSA TV" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="PERU", 16► Exitosa TV
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VISION TV MUSICA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png" group-title="PERU", 17► Vision TV Musica
-https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w1547254656.m3u8
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w1053842981.m3u8
 #EXTINF:-1 tvg-id="CANAL RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RPP_logo.png/617px-RPP_logo.png" group-title="PERU", 18► Canal RPP
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8?iptvgratis?chile.m3u8
 
