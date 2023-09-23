@@ -14,6 +14,13 @@ https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd7
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36", 04► America TV
 https://1011-vos.dtvott.com/DASH/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bPKWXGc/america.jpg" group-title="PERU", 05► America TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys3/americatv.json
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1011
+
+
 #EXTINF:-1 tvg-id="PANAMERICANA" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="PERU", 05► Panamericana TV SD
 https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFpKJUlo0ofDmIqUw3HutgyY7apLjpBouOOev9uWTLdEd)/dm/3/x774s7s/s/live-0.m3u8
 #EXTINF:-1 tvg-id="PANAMERICANA" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="PERU", 06► Panamericana TV HD
@@ -64,56 +71,74 @@ https://mi.godo.net.pe/BesTv-001120000100/index.m3u8
 #EXTINF:-1 tvg-id="CABLE VISION TV" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/LOGO-CVP_COLORES-2.png" group-title="PERU", 21► Cable Vision TV
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 
-#EXTINF:-1 tvg-id="KARIBEÑA" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="MUSICA TV", 01► Karibeña
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/DyMCgdHZ/gentv.png" group-title="INTERNACIONAL", ARG: GEN TV
+https://inliveserver.com:1936/14056/14056/chunklist_w1284183641.m3u8
+
+#EXTINF:-1 tvg-id="KARIBEÑA" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="MUSICA", 01► Karibeña
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="MUSICA TV", 02► Top Latino TV
+#EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="MUSICA", 02► Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TropicalTV.pe" tvg-logo="https://i.imgur.com/vZwaV3J.png" group-title="MUSICA TV", 03► Tropical TV
+#EXTINF:-1 tvg-id="TropicalTV.pe" tvg-logo="https://i.imgur.com/vZwaV3J.png" group-title="MUSICA", 03► Tropical TV
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VISION TV MUSICA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png" group-title="MUSICA TV", 03► Vision TV Musica
 
-#EXTINF:-1 tvg-id="VisionTVMusica.pe" tvg-logo="https://i.imgur.com/AihIIGn.png" group-title="MUSICA TV", 04► Vision TV Musica
+#EXTINF:-1 tvg-id="VisionTVMusica.pe" tvg-logo="https://i.imgur.com/AihIIGn.png" group-title="MUSICA", 04► Vision TV Musica
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://i.imgur.com/PXm4osQ.png" group-title="MUSICA TV", 05► Best Cable Music Canal 97
+#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://i.imgur.com/PXm4osQ.png" group-title="MUSICA", 05► Best Cable Music Canal 97
 https://mi.godo.net.pe/best-Music-00112000050/index.m3u8
 
-#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/zgEvssl.png" group-title="MUSICA TV", 06► Best Cable Mas Cumbia Canal 98
+#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/zgEvssl.png" group-title="MUSICA", 06► Best Cable Mas Cumbia Canal 98
 https://mi.godo.net.pe/best-MasCum-0102210011/index.m3u8
 
-#EXTINF:-1 tvg-id="H TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="MUSICA TV", 07► H TV
+#EXTINF:-1 tvg-id="H TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="MUSICA", 07► HTV
 https://live.telelatinohd.com:8080/MzguMjUuMzAuMTgx/89_.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://todotv.net/tv/img/Hit-tv.png" group-title="MUSICA TV", 08► Hit TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://todotv.net/tv/img/Hit-tv.png" group-title="MUSICA", 08► Hit TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M88NzqH/Xly8mKUw.jpg" tvg-group="MUSICA TV", HTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M88NzqH/Xly8mKUw.jpg" tvg-group="MUSICA", 09► HTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/htv.json
 https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA TV", 09► Teleritmo
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", 10► Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-id="Radio Oxigeno" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/oxigeno.png" group-title="RADIO ONLINE", Radio Oxigeno
+#EXTINF:-407 tvg-logo="https://i.postimg.cc/9fs9s7jQ/vevopop.png" group-title="MUSICA", 11► VEVO POP
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f01ebfed-7ad5-4d03-b1ca-023870fcb436&userId=&serverSideAds=true
+
+#EXTINF:-407 tvg-logo="https://i.postimg.cc/1txgv1pg/vevoregtrap.png" group-title="MUSICA", 12► VEVO REGGAETON & TRAP
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
+
+#EXTINF:-407 tvg-logo="https://i.postimg.cc/8Pk7KHrb/vevoryb.png" group-title="MUSICA", 13► VEVO R&B
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&userId=&serverSideAds=true
+
+#EXTINF:-407 tvg-logo="https://i.postimg.cc/R0WscKRS/vevo2k.png" group-title="MUSICA", 14► VEVO 2K
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
+
+#EXTINF:-407 tvg-logo="https://i.postimg.cc/vHGnRyCf/vevolatino.png" group-title="MUSICA", 15► VEVO LATINO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1017b00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3566ca8c-2173-405a-b3fd-417fe1777274&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Radio Oxigeno" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/oxigeno.png" group-title="RADIO", Radio Oxigeno
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c
 
-#EXTINF:-1 tvg-id="Radio La Zona 90.5 FM" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/la-zona.png" group-title="RADIO ONLINE", Radio La Zona 90.50 FM
+#EXTINF:-1 tvg-id="Radio La Zona 90.5 FM" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/la-zona.png" group-title="RADIO", Radio La Zona 90.50 FM
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5
 
-#EXTINF:-1 tvg-id="Radio Studio 92" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/studio.png" group-title="RADIO ONLINE", Radio Studio 92
+#EXTINF:-1 tvg-id="Radio Studio 92" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/studio.png" group-title="RADIO", Radio Studio 92
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea
 
-#EXTINF:-1 tvg-id="Radio Z Rock & Pop" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/z-lima.png" group-title="RADIO ONLINE", Radio Z Rock & Pop
+#EXTINF:-1 tvg-id="Radio Z Rock & Pop" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/z-lima.png" group-title="RADIO", Radio Z Rock & Pop
 https://cpliv3.onliv3.com/stream/radiozeta
 
-#EXTINF:-1 tvg-id="Radio OASIS Rock & Pop" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/oasis.png" group-title="RADIO ONLINE", Radio OASIS Rock & Pop
+#EXTINF:-1 tvg-id="Radio OASIS Rock & Pop" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/oasis.png" group-title="RADIO", Radio OASIS Rock & Pop
 https://14123.live.streamtheworld.com/CRP_OAS_SC
 
-#EXTINF:-1 tvg-id="Radio MODA" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/moda.png" group-title="RADIO ONLINE", Radio MODA Te mueve
+#EXTINF:-1 tvg-id="Radio MODA" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/moda.png" group-title="RADIO", Radio MODA Te mueve
 https://25063.live.streamtheworld.com/CRP_MOD_SC
 
 #EXTINF:-1 tvg-id="BestCableSportsPeru.pe" tvg-logo="https://i.imgur.com/nflqmSC.png" group-title="☆☆PERU DEPORTES", 01► Best Cable Sports Peru Canal 6
@@ -149,14 +174,18 @@ http://103.145.13.105:8080/live/Marco1/A123/97783.m3u8
 https://cdn2.tiogol.com/liveedge/live1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XssXpkW/dtvuy.png" tvg-group="☆☆DEPORTES PREMIUN", 01► DIRECTV SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XssXpkW/dtvuy.png" group-title="☆☆DEPORTES PREMIUN", 01► DIRECTV SPORTS
 http://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=directvlive
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w4n3ZSB/tntsportsar.png" tvg-group="☆☆DEPORTES PREMIUN", 02► TNT SPORTS AR 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4n3ZSB/tntsportsar.png" group-title="☆☆DEPORTES PREMIUN", 02► TNT SPORTS AR 2
 https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=tntsportshd1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcMqrCH/tntsportscl.png" tvg-group="☆☆DEPORTES PREMIUN", 03► TNT SPORTS CL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcMqrCH/tntsportscl.png" group-title="☆☆DEPORTES PREMIUN", 03► TNT SPORTS CL
 https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=tntchile
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kHj0xS7/tv-station-win-sports-plus-2457.png" group-title="☆☆DEPORTES PREMIUN", 04► WIN SPORTS PLUS
+https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=winlive
 
 #EXTINF:-1 tvg-id="" tvg-name="PARANAMOUNT CHANEL" tvg-logo="https://i.ibb.co/WsBhsDZ/ar-paramount-channel-m.png" group-title="☆☆CINE PREMIUN", PARANAMOUNT +
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/600728952b1776000776526d/3063648/playlist.m3u8
@@ -182,11 +211,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-71 tvg-logo="https://i.postimg.cc/k5ZDjspW/CINE.png" group-title="☆☆CINE PREMIUN", CINE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae24-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b1c7f116-fa08-488b-a213-5bb1f7ee5ad2&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HDLNXWr/ISAT-LOGO.png" tvg-group="CINE Y SERIES", ISAT OP2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/isat2.json
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1152
-
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://i43.tinypic.com/znx7v9.jpg" group-title="☆☆CINE PREMIUN", TNT
 http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
 
@@ -204,11 +228,22 @@ http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/isat2.json
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1152
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="REGILIOSO", Extrema TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOUS", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-name="Captain Tsubasa" tvg-name="Captain Tsubasa" tvg-logo="https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/41c3cd1d910578720cdaa307c9e06061.jpe" group-title="SERIES & ANIMES", Captain Tsubasa
 https://i.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4sTztF/tomyjerry.png" group-title="SERIES & ANIMES", TOM Y JERRY
+https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=421
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c2dwthG/southpark.jpg" group-title="SERIES & ANIMES", SOUTH PARK 2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DrBsFxC/dragonballz.jpg" group-title="SERIES & ANIMES", DRAGON BALL Z
+https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=329
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIES & ANIMES",Los Simpson:En español
 https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Los%20tres%20gays%20del%20bloque.mp4
