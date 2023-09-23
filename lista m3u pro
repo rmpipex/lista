@@ -170,13 +170,15 @@ http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg" group-title="☆☆CINE PREMIUN", Nat Geo Wild
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
 
-#EXTINF:-1 tvg-shift=0 tvg-name="Captain Tsubasa" tvg-logo="https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/41c3cd1d910578720cdaa307c9e06061.jpe" group-title="SERIE" , Captain Tsubasa
+
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Captain Tsubasa" tvg-logo="https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/41c3cd1d910578720cdaa307c9e06061.jpe" group-title="SERIES" , Captain Tsubasa
 https://i.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIE",Los Simpson:En español
+#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIES",Los Simpson:En español
 https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Los%20tres%20gays%20del%20bloque.mp4
-#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIE",Los Simpson:En español
+#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIES",Los Simpson:En español
 https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Marge%2C%20la%20pechugona.mp4
-#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIE",Los Simpson:En español
+#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIES",Los Simpson:En español
 https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Margie%2C%20puedo%20acostarme%20con%20el%20peligro.mp4
-#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIE",Los Simpson:En español
+#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIES",Los Simpson:En español
 https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Tal%20como%20no%20%C3%A9ramos.mp4
