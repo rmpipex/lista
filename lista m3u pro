@@ -63,7 +63,7 @@ https://mi.godo.net.pe/best-Music-00112000050/index.m3u8
 #EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/zgEvssl.png" group-title="MUSICA TV", 06► Best Cable Mas Cumbia Canal 98
 https://mi.godo.net.pe/best-MasCum-0102210011/index.m3u8
 #EXTINF:-1 tvg-id="H TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="MUSICA TV", 07► H TV
-https://live.telelatinohd.com:8080/MzguMjUuMzAuMTgx/89_.m3u8?id=89_
+https://live.telelatinohd.com:8080/MzguMjUuMzAuMTgx/89_.m3u8?
 #EXTINF:-1 tvg-id="H TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="MUSICA TV", 07► H TV
 https://live.telelatinohd.com:8080/MzguMjUuMzAuMTgx/89_.m3u8?token=e2ZnQAu6F8UoOU-BnmHRyg&expires=1695465755
 #EXTINF:-1 tvg-id="H TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="MUSICA TV", 07► H TV
@@ -86,28 +86,32 @@ https://25063.live.streamtheworld.com/CRP_MOD_SC
 https://mi.godo.net.pe/Best-sport-00000x111/index.m3u8
 #EXTINF:-1 tvg-id="NATIVA" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="☆☆PERU DEPORTES", 02► Nativa
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" group-title="☆☆PERU DEPORTES", 02► Liga 1 Max
-https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=liga1max
 #EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" group-title="☆☆PERU DEPORTES", 03► Liga 1 Max
-https://channels123.futbolenvivo.xyz/streams4/master.m3u8
+https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=liga1max
 #EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" group-title="☆☆PERU DEPORTES", 04► Liga 1 Max
-https://cdn2.tiogol.com/liveedge/live1/chunklist_w1059059783_tkdG9rZW5lbmR0aW1lPTE2OTU0MTgxNDQmdG9rZW5oYXNoPXRXTWloRl9rOVJPVDRCWHNkbF9nbEFDc2dyOGNPLXFYQnk2aGlGOVpUT1U9JnRva2Vuc3RhcnR0aW1lPTE2OTU0MDYxNDQ=.m3u8
+https://pelivechannelsdash-3.clarovideo.com/bpk-tv/LIGA1MAX/dash_fk/dash/LIGA1MAX-audio_96800_spa=94800-81383479986256.dash
 #EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" group-title="☆☆PERU DEPORTES", 05► Liga 1 Max
+https://cdn2.tiogol.com/liveedge/live1/chunklist_w1059059783_tkdG9rZW5lbmR0aW1lPTE2OTU0MTgxNDQmdG9rZW5oYXNoPXRXTWloRl9rOVJPVDRCWHNkbF9nbEFDc2dyOGNPLXFYQnk2aGlGOVpUT1U9JnRva2Vuc3RhcnR0aW1lPTE2OTU0MDYxNDQ=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" group-title="☆☆PERU DEPORTES", 06► Liga 1 Max
 https://cdn2.tiogol.com/liveedge/live1/chunklist_w1059059783_tkdG9rZW5lbmR0aW1lPTE2OTU0MTgxNDQmdG9rZW5oYXNoPXRXTWloRl9rOVJPVDRCWHNkbF9nbEFDc2dyOGNPLXFYQnk2aGlGOVpUT1U9JnRva2Vuc3RhcnR0aW1lPTE2OTU0MDYxNDQ=.m3u8?clientIP=190.236.204.253
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/1f2p2N6/liga1.png" group-title="☆☆PERU DEPORTES", LIGA 1 PERU
-https://n6.aliflailaaliflaila.com:999/hls/liga1max.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/1f2p2N6/liga1.png" group-title="☆☆PERU DEPORTES" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36", 07► Liga 1 Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://pelivechannelsdash-3.clarovideo.com/bpk-tv/LIGA1MAX/dash_fk/index.mpd?=4141200-101729386499100.dash
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/1f2p2N6/liga1.png" group-title="☆☆PERU DEPORTES" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36", 08► Liga 1 Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://pelivechannelsdash-3.clarovideo.com/bpk-tv/LIGA1MAX/dash_fk/dash/LIGA1MAX-video=index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 06► GOL PERU
-https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=686
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 07► GOL PERU
-https://rmydhkwzagtpufex.cdnessential.net:8443/hls/9jjlwym.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 08► GOL PERU
+https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=686
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 09► GOL PERU
+https://rmydhkwzagtpufex.cdnessential.net:8443/hls/9jjlwym.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 10► GOL PERU
 https://e5.ainakwalajeen.com:999/hls/golperusd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 09► GOL PERU
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 11► GOL PERU
 http://103.145.13.105:8080/live/Marco1/A123/97783.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 09► GOL PERU
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 12► GOL PERU
 http://103.145.13.105:8080/live/Marco1/A123/97783.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 09► GOL PERU
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 13► GOL PERU
 https://cdn2.tiogol.com/liveedge/live1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://pro.ipcover.tv:8080/images/492ecc0770523d11fd4209168dd9454e.png" group-title="☆☆DEPORTES PREMIUN",ESPN
@@ -154,9 +158,25 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/Stream
 https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/Cp8FdsMTuDT_wK-onX1WZyamyfmvSzBajA5opCjMDK24q7_k1xY1pvuJ8mo4_30ShxdtDfJbZ8uHv8NpiJh99_s4J9osMGx5I_tU-H2CBPckwORBIbublLyzI5I-nqxkM44jZt9XMBWnqybOot5Ofi2-4gzID2LPhPEHKF_y7paczRO6GGHjHCly7aYi-llKTbu6Ix3T1jWCZ4fG1QSDDThxWK_WpKTbcmkmU_RVxMIqi0-L1Xjm0U3JZQTDaQnccEbPqhkTNOoVymColzURHD3lw2D7WRqruqYnilbTjp806eNmjW4Gho0Ak0vJY99PDupWX2yuW2-4xZUzm9tEuNuEOg43TIQdwjB8EiuLlX_sWBlRZrcP2gB6bFd2431zOjJ6Itd3ElkUVC6YZIXYPe-_3nvmeB85aAInGy_6K70Ta1iglK-wx42hxX4ilBzZcZAoBjDxtKBpCFhZpBkh-ag8tU4XJi3sOoxontgotgXEq3aEICJjh_bO2aX28v_s45J7ZfOApAotK3HZXHWMAwWD-aKKxaUJp-KZyd0Lhyk7wvLIlVpW4H8PASATGKlBxXnBbKZa_7odGxDsmQIukQJQXP4Nc503wrpTGppwWaEaU3bJ4U72L3SWRe01fcIG_AqeHzanIqGuC7jLM2Zhi2hyGZcdIioKe-XlGIx03vgEiMdpcp-t5lgwKgnVEssWtHZRWN1_KThG9vqCf4AIGitdmyVH5VB_cPD0Vv_mqA9TXPx88X09gfEJGndQXsnjeuIjJEO6RfpKp3wjG1sTBWhZgAtuSRRnOl_6IJf_gho1ClmS-Ox50pMLl42mgXqTW2ncXLlUr4tyaxz76FYsqD0-JaxbxjdYQYLgyGzwONj4nAcwu56vU3jF51Ul1Ipw08oaDEg4k9sr0lLMnbbXCyABKglldS13ZXN0LTIwzAc.m3u8
 #EXTINF:-1 tvg-shift=0 tvg-name= "HBO 2" tvg-logo="https://megatelevisiontv.live/img/logo_canal/HBO_2.png" group-title="☆☆CINE PREMIUN", HBO 2
 https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CqMFdWKc9anj3dHWVJYDHGcUoYZPD_QB020y_xwNoI3C5UXgus2EE1cOIUzCCVrx4gr5RT5-LuZVjm3qQQz3_SjA3rM6scCIFh89rNSq4MQ8wJq9_eKQkZ4GgNf4KJdKccBgQ-ZA1rWRhoXQ5b0o57WWx_3KFKs3tiGC6oiGShZdQ8ITcpZ92bfwTujwn5kfvLcF6lfHkUA-dI1csZrXw_KUU7zyvmghW9PIhItD08KJyZMUvnMUetWosAyugV89frNQOJpQqjCNveBhJVG8IHFkZQR5ttJ1Zs9RaJ0cPMygb1PLNkuNlKTAIhJB3B_0TQxsXjwjMAD31CBuVrXaGjazU55d8FS0otdAIi16huON09hV8MshsrU65giOGI1_lo9dp_rVhZaDvIqTUO7PkwaYRnSeblrlEjLtQWOEA6iNj19QYZbPR9J4DYZm8HM-Et9qyGrS_caojWFQWXYLpUPBL029UP2nfir8ZdT8wFt-bYnZ2ZYgQVcmXk6y2k0LjulsU8VpakKUcUJrlqV4FnSNO-MJ_8eionYd4cvSE5NlTqg6OmhNqPOMR7SiEP-e1u55AKA_SSCsZrV5xZpYvirF5JcrFIdrIiFoCBCgooX30Qr8CFSSMcR4jLknW-WRDTWYJuO6mm7ir0VGW6mMzKkJdJJ0oawFq_KfkYzzYD7ofX4Gwf1c-o8252X3rmbo_1t5-N-Hf1vjRaduNh-a-wjUWiPu2tkl-nRF-XjvQ5ayG7yUsbixZde6mtT5pQIpAorIObDI6ff1f8Q3FGbj3HvkQmEyvaCoZdSf4JJsk_jViwJIND7kzKzTidOBqwlsIdiYF8V9x5IPye2JTa09k1ile7MLedmF59u5PStA_8z6T0YH9A3-zHpemsZtWST7D9IW2jgCGgy5U9-MKB7oL-84L18gASoJZXUtd2VzdC0yMMwH.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "SPACE" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo-500x281.png" group-title="☆☆CINE PREMIUN", SPACE
+#EXTINF:-1 tvg-shift=0 tvg-name="SPACE" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo-500x281.png" group-title="☆☆CINE PREMIUN", SPACE
 https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CqMF86JWAjKaRpOOFJb-d9DB7OTY91Xbz05rEiNOfbN77cjz3Rk4Y1f-IB2wVpdvcizEGmAGTbotX3ZWX4W0GPfnOORYi2qa4-0_o2ZRxDEK2Cn5EBY0_RlSK3biK4yHotiydR_5AtaFuG4wM_cpblprqPIcM2ejU7fcmA4cOjhLQi8iVHsaFtWPUiRhO0W-eR3EiBj1IE0Rb7FzWVkaE_eHEQP1zyFhcTTDXxCt6EgbaXwl24rgfyQssMf3FWbb60S7SWyc771dwPZmeQ2MwdkpzYTeQIbPhGb6xD4lxcRq76V3eHoJQHpbNOoL-WCmWdqohFtxHfqpfzN-wUVwwjggNgnM7CO4mAQNwIbRJ9fKAp_DujYX0vsyS0JgSgLM3kAFel6mICAxr29lvqRU2Vibog6jSG3-VWoQyZ4Sgz3t0XynKDxnQQ5DcONXZF9DoU9J7xFiaS_vplE9HPDzoXj6rbyWJTARy3xoSn_nRzLfK3ipkJNixdy6K5VdcnQn8fidW8ZV8oAnpklFsTlAiuv-DBpDsqJyKyv-5GIRP-OXLAFJk5b7wuYYDFKkplrbPq5W_xcFG_bL8-df-zC5d6pxlnRzSuSK_w9yz3wcejN9SWoLIXfpD-zHoMO9igrP_9jbMltePA2_h4N1tTUtQh7Op2EiJsyOxkArpLj6A7Kkt4vBx-yaa2SS3Qkoew-Rq9Dt0IE6NF_PqoOWaSPirHyPI4WB2zT_Fgv4D_nMx0ebUUK7zjpg92z2BJwd2fBGyKc3UrvTTkAKn8qQbuzxUFYKG4Uk_3U3Y7J48dwZvDkL6wiaT_FEoS8heiF5TAumE_m3YdnC7kEwhOvyck4QavopM072Fjo95Wez9g35kggaJ9rdKFOZ7Y_JfTP2-Y6-MiCT3T2CGgw12T7XX3zvzLUPW94gASoJZXUtd2VzdC0yMMwH.m3u8
 
-#EXTINF:-1 channel-id="pluto-64666345f3f5b1000882bfb4" tvg-id="64666345f3f5b1000882bfb4" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" tvg-chno="1271" group-title="ANIME & GAMING" , Captain Tsubasa
-https://i.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
+#EXTINF:-1 tvg-logo="http://i43.tinypic.com/znx7v9.jpg" group-title="☆☆CINE PREMIUN", TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="SPACE" tvg-logo="http://i61.tinypic.com/2yovqqh.jpg" group-title="☆☆CINE PREMIUN", Space
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/635px-Logo_Golden_TV.svg.png" group-title="☆☆CINE PREMIUN", Golden
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg" group-title="☆☆CINE PREMIUN", Nat Geo Wild
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
 
+#EXTINF:-1 tvg-shift=0 tvg-name="Captain Tsubasa" tvg-logo="https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/41c3cd1d910578720cdaa307c9e06061.jpe" group-title="SERIE" , Captain Tsubasa
+https://i.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIE",Los Simpson:En español
+https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Los%20tres%20gays%20del%20bloque.mp4
+#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIE",Los Simpson:En español
+https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Marge%2C%20la%20pechugona.mp4
+#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIE",Los Simpson:En español
+https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Margie%2C%20puedo%20acostarme%20con%20el%20peligro.mp4
+#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIE",Los Simpson:En español
+https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Tal%20como%20no%20%C3%A9ramos.mp4
