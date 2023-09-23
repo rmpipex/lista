@@ -161,18 +161,16 @@ https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CqMFdWKc9anj3dHWVJYDHGcUoYZ
 #EXTINF:-1 tvg-shift=0 tvg-name="SPACE" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo-500x281.png" group-title="☆☆CINE PREMIUN", SPACE
 https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CqMF86JWAjKaRpOOFJb-d9DB7OTY91Xbz05rEiNOfbN77cjz3Rk4Y1f-IB2wVpdvcizEGmAGTbotX3ZWX4W0GPfnOORYi2qa4-0_o2ZRxDEK2Cn5EBY0_RlSK3biK4yHotiydR_5AtaFuG4wM_cpblprqPIcM2ejU7fcmA4cOjhLQi8iVHsaFtWPUiRhO0W-eR3EiBj1IE0Rb7FzWVkaE_eHEQP1zyFhcTTDXxCt6EgbaXwl24rgfyQssMf3FWbb60S7SWyc771dwPZmeQ2MwdkpzYTeQIbPhGb6xD4lxcRq76V3eHoJQHpbNOoL-WCmWdqohFtxHfqpfzN-wUVwwjggNgnM7CO4mAQNwIbRJ9fKAp_DujYX0vsyS0JgSgLM3kAFel6mICAxr29lvqRU2Vibog6jSG3-VWoQyZ4Sgz3t0XynKDxnQQ5DcONXZF9DoU9J7xFiaS_vplE9HPDzoXj6rbyWJTARy3xoSn_nRzLfK3ipkJNixdy6K5VdcnQn8fidW8ZV8oAnpklFsTlAiuv-DBpDsqJyKyv-5GIRP-OXLAFJk5b7wuYYDFKkplrbPq5W_xcFG_bL8-df-zC5d6pxlnRzSuSK_w9yz3wcejN9SWoLIXfpD-zHoMO9igrP_9jbMltePA2_h4N1tTUtQh7Op2EiJsyOxkArpLj6A7Kkt4vBx-yaa2SS3Qkoew-Rq9Dt0IE6NF_PqoOWaSPirHyPI4WB2zT_Fgv4D_nMx0ebUUK7zjpg92z2BJwd2fBGyKc3UrvTTkAKn8qQbuzxUFYKG4Uk_3U3Y7J48dwZvDkL6wiaT_FEoS8heiF5TAumE_m3YdnC7kEwhOvyck4QavopM072Fjo95Wez9g35kggaJ9rdKFOZ7Y_JfTP2-Y6-MiCT3T2CGgw12T7XX3zvzLUPW94gASoJZXUtd2VzdC0yMMwH.m3u8
 
-#EXTINF:-1 tvg-logo="http://i43.tinypic.com/znx7v9.jpg" group-title="☆☆CINE PREMIUN", TNT
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://i43.tinypic.com/znx7v9.jpg" group-title="☆☆CINE PREMIUN", TNT
 http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name="SPACE" tvg-logo="http://i61.tinypic.com/2yovqqh.jpg" group-title="☆☆CINE PREMIUN", Space
+#EXTINF:-1 tvg-id=""tvg-name="SPACE" tvg-logo="http://i61.tinypic.com/2yovqqh.jpg" group-title="☆☆CINE PREMIUN", Space
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/635px-Logo_Golden_TV.svg.png" group-title="☆☆CINE PREMIUN", Golden
+#EXTINF:-1 tvg-id=""tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/635px-Logo_Golden_TV.svg.png" group-title="☆☆CINE PREMIUN", Golden
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg" group-title="☆☆CINE PREMIUN", Nat Geo Wild
+#EXTINF:-1 tvg-id=""tvg-name="Nat GEO WILD" tvg-logo="http://i58.tinypic.com/11ryvsw.jpg" group-title="☆☆CINE PREMIUN", Nat Geo Wild
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
 
-
-
-#EXTINF:-1 tvg-shift=0 tvg-name="Captain Tsubasa" tvg-logo="https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/41c3cd1d910578720cdaa307c9e06061.jpe" group-title="SERIES" , Captain Tsubasa
+#EXTINF:-1 tvg-id=""tvg-name="Captain Tsubasa" tvg-name="Captain Tsubasa" tvg-logo="https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/41c3cd1d910578720cdaa307c9e06061.jpe" group-title="SERIES" , Captain Tsubasa
 https://i.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
 #EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIES",Los Simpson:En español
 https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Los%20tres%20gays%20del%20bloque.mp4
