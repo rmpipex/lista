@@ -6,23 +6,17 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU", 02► America TV
 http://home-playtv.com:8080/live/104walter000/NJVFY/102643.m3u8
 
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36"
-#EXTINF:-1 tvg-id="America TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36", 03► America TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-id="America TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU", 03► America TV
 https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_1800.m3u8
 
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-id="America TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36", 04► America TV
-https://1011-vos.dtvott.com/DASH/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bPKWXGc/america.jpg" group-title="PERU", 05► America TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys3/americatv.json
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1011
-
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-id="America TV" tvg-logo="https://e-an.americatv.com.pe/actualidad-comunicado-n458153-696x418-1004092.jpg" group-title="PERU", 04► America TV
+https://cadenad.com/6f73cba0-a984-48a7-bb57-4e0a420c6be7
 
 #EXTINF:-1 tvg-id="PANAMERICANA" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="PERU", 05► Panamericana TV SD
 https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFpKJUlo0ofDmIqUw3HutgyY7apLjpBouOOev9uWTLdEd)/dm/3/x774s7s/s/live-0.m3u8
+
 #EXTINF:-1 tvg-id="PANAMERICANA" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="PERU", 06► Panamericana TV HD
 https://cdn75.iblups.com/hls/stream.m3u8
 
@@ -83,44 +77,44 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TropicalTV.pe" tvg-logo="https://i.imgur.com/vZwaV3J.png" group-title="MUSICA", 03► Tropical TV
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VISION TV MUSICA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png" group-title="MUSICA TV", 03► Vision TV Musica
+#EXTINF:-1 tvg-id="VISION TV MUSICA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png" group-title="MUSICA", 04► Vision TV Musica
 
-#EXTINF:-1 tvg-id="VisionTVMusica.pe" tvg-logo="https://i.imgur.com/AihIIGn.png" group-title="MUSICA", 04► Vision TV Musica
+#EXTINF:-1 tvg-id="VisionTVMusica.pe" tvg-logo="https://i.imgur.com/AihIIGn.png" group-title="MUSICA", 05► Vision TV Musica
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://i.imgur.com/PXm4osQ.png" group-title="MUSICA", 05► Best Cable Music Canal 97
+#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://i.imgur.com/PXm4osQ.png" group-title="MUSICA", 06► Best Cable Music Canal 97
 https://mi.godo.net.pe/best-Music-00112000050/index.m3u8
 
-#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/zgEvssl.png" group-title="MUSICA", 06► Best Cable Mas Cumbia Canal 98
+#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/zgEvssl.png" group-title="MUSICA", 07► Best Cable Mas Cumbia Canal 98
 https://mi.godo.net.pe/best-MasCum-0102210011/index.m3u8
 
-#EXTINF:-1 tvg-id="H TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="MUSICA", 07► HTV
+#EXTINF:-1 tvg-id="H TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="MUSICA", 08► HTV
 https://live.telelatinohd.com:8080/MzguMjUuMzAuMTgx/89_.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://todotv.net/tv/img/Hit-tv.png" group-title="MUSICA", 08► Hit TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://todotv.net/tv/img/Hit-tv.png" group-title="MUSICA", 09► Hit TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M88NzqH/Xly8mKUw.jpg" tvg-group="MUSICA", 09► HTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M88NzqH/Xly8mKUw.jpg" tvg-group="MUSICA", 10► HTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/htv.json
 https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", 10► Teleritmo
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", 11► Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-407 tvg-logo="https://i.postimg.cc/9fs9s7jQ/vevopop.png" group-title="MUSICA", 11► VEVO POP
+#EXTINF:-407 tvg-logo="https://i.postimg.cc/9fs9s7jQ/vevopop.png" group-title="MUSICA", 12► VEVO POP
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f01ebfed-7ad5-4d03-b1ca-023870fcb436&userId=&serverSideAds=true
 
-#EXTINF:-407 tvg-logo="https://i.postimg.cc/1txgv1pg/vevoregtrap.png" group-title="MUSICA", 12► VEVO REGGAETON & TRAP
+#EXTINF:-407 tvg-logo="https://i.postimg.cc/1txgv1pg/vevoregtrap.png" group-title="MUSICA", 13► VEVO REGGAETON & TRAP
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 
-#EXTINF:-407 tvg-logo="https://i.postimg.cc/8Pk7KHrb/vevoryb.png" group-title="MUSICA", 13► VEVO R&B
+#EXTINF:-407 tvg-logo="https://i.postimg.cc/8Pk7KHrb/vevoryb.png" group-title="MUSICA", 14► VEVO R&B
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&userId=&serverSideAds=true
 
-#EXTINF:-407 tvg-logo="https://i.postimg.cc/R0WscKRS/vevo2k.png" group-title="MUSICA", 14► VEVO 2K
+#EXTINF:-407 tvg-logo="https://i.postimg.cc/R0WscKRS/vevo2k.png" group-title="MUSICA", 15► VEVO 2K
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
 
-#EXTINF:-407 tvg-logo="https://i.postimg.cc/vHGnRyCf/vevolatino.png" group-title="MUSICA", 15► VEVO LATINO
+#EXTINF:-407 tvg-logo="https://i.postimg.cc/vHGnRyCf/vevolatino.png" group-title="MUSICA", 16► VEVO LATINO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1017b00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3566ca8c-2173-405a-b3fd-417fe1777274&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="Radio Oxigeno" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/oxigeno.png" group-title="RADIO", Radio Oxigeno
@@ -150,41 +144,46 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" group-title="☆☆PERU DEPORTES", 03► Liga 1 Max
 https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=liga1max
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" group-title="☆☆PERU DEPORTES", 04► Liga 1 Max
-https://pelivechannelsdash-3.clarovideo.com/bpk-tv/LIGA1MAX/dash_fk/dash/LIGA1MAX-video=index.mpd
+http://69.30.193.106:8080/live/Demo11/uyK6PkPXZV6E/190616.m3u8?token=SRJQUEJeRw4bCQlQVA8KUgFUAwJeU1UJDgFRUVJQVwwKAw1XVwEEVl0SFUFFQkAEBQ85XAIQCQkPA1JUVE1DTUFVSm5YUkcOGwMIUQAGEE1GFg9YAxAJCBoRFAwGQ1saAAUIAwMUSRZcSE0GRFhTDTsGA0MPUVYaDF0RCQ5NQ1dcb1xUXFcLUBsKG1IUGhAIFxJEDwhHX1QaEQYMFhMATFcSAhMAD1UAGxwbAFlDXBUWG0QPRGdgGhoRAR0WBA9LW19WEwsUCAdMCBtPFF9BPhYHFUEUV1JVU0FGX0BRQxQQXVlJblUKWldVWhdfWVwSRlhEBkQeEVVZXQ0RDRM+SFtUGgsTBFQEDAMbHg
 
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" tvg-group="D☆☆PERU DEPORTES", 05► GOL PERU
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" group-title="☆☆PERU DEPORTES", 05► Liga 1 Max
+http://tvlatino.club:2082/live/Demo11/uyK6PkPXZV6E/190616.m3u8
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" tvg-group="D☆☆PERU DEPORTES", 06► GOL PERU
 https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=686
 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 07► GOL PERU
+http://103.145.13.105:8080/live/Marco1/A123/97783.m3u8
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 09► GOL PERU
-https://rmydhkwzagtpufex.cdnessential.net:8443/hls/9jjlwym.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 10► GOL PERU
-https://e5.ainakwalajeen.com:999/hls/golperusd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 11► GOL PERU
-http://103.145.13.105:8080/live/Marco1/A123/97783.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 12► GOL PERU
-http://103.145.13.105:8080/live/Marco1/A123/97783.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 13► GOL PERU
 https://cdn2.tiogol.com/liveedge/live1/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="☆☆PERU DEPORTES", 10► MOVISTAR DEPORTES
+http://107.150.33.122:8080/live/Marco2/UgbuNjtZ527P/206443.m3u8?token=SRJQUEJeRw4bUQwGVw5TUAdTAAEAVgZeVVBSUldTUlwHBA4HVVVRVgkSFUFFQkAEBQ85XAIQCQoGBVBRUU1DTUFVSm5YUkcOGwMIVAUPEE1GFg9YAxAJCBoRFAwGQ1saAAQJBwUUSRZcSE0GRFhTDTsGA0MPUVYaDF0RCQ5NQ1dcb1xUXFcLUBsKG1MUGhAIFxJEDwhHX1QaEQYMFhMATFcSAhMAD1cHGxwbAFlDXBUWG0QPRGdgGhoRAR0WBA9LW19WEwsUCAdMCBtPFF9BPhYHFUEUV1JVU0FGX0BRQxQQXVlJblUKWldVWhdfWVwSRlhEAUQeEVVZXQ0RDRM+SFtUGgsTB1IMCwcbHg
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XssXpkW/dtvuy.png" group-title="☆☆DEPORTES PREMIUN", 01► DIRECTV SPORTS
 http://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=directvlive
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w4n3ZSB/tntsportsar.png" group-title="☆☆DEPORTES PREMIUN", 02► TNT SPORTS AR 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://tv.libre.futbol/img/logo-canal/DirecTV_Sports_2.png" group-title="☆☆DEPORTES PREMIUN", 02► DIRECTV SPORTS 2
+hhttps://pro7.proedge01.xyz/live/ST5a27c66312cf945.m3u8?id=1057
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4n3ZSB/tntsportsar.png" group-title="☆☆DEPORTES PREMIUN", 03► TNT SPORTS AR 2
 https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=tntsportshd1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcMqrCH/tntsportscl.png" group-title="☆☆DEPORTES PREMIUN", 03► TNT SPORTS CL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcMqrCH/tntsportscl.png" group-title="☆☆DEPORTES PREMIUN", 04► TNT SPORTS CL
 https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=tntchile
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kHj0xS7/tv-station-win-sports-plus-2457.png" group-title="☆☆DEPORTES PREMIUN", 04► WIN SPORTS PLUS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kHj0xS7/tv-station-win-sports-plus-2457.png" group-title="☆☆DEPORTES PREMIUN", 05► WIN SPORTS PLUS
 https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=winlive
 
 #EXTINF:-1 tvg-id="" tvg-name="PARANAMOUNT CHANEL" tvg-logo="https://i.ibb.co/WsBhsDZ/ar-paramount-channel-m.png" group-title="☆☆CINE PREMIUN", PARANAMOUNT +
@@ -235,24 +234,29 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://i.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w4sTztF/tomyjerry.png" group-title="SERIES & ANIMES", TOM Y JERRY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4sTztF/tomyjerry.png" group-title="SERIES & ANIMES" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36", TOM Y JERRY
 https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=421
 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c2dwthG/southpark.jpg" group-title="SERIES & ANIMES", SOUTH PARK 2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DrBsFxC/dragonballz.jpg" group-title="SERIES & ANIMES", DRAGON BALL Z
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DrBsFxC/dragonballz.jpg" group-title="SERIES & ANIMES" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36", DRAGON BALL Z
 https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=329
 
-#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIES & ANIMES",Los Simpson:En español
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIES & ANIMES" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Los Simpson:En español
 https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Los%20tres%20gays%20del%20bloque.mp4
 
-#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIES & ANIMES",Los Simpson:En español
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIES & ANIMES" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Los Simpson:En español
 https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Marge%2C%20la%20pechugona.mp4
 
-#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIES & ANIMES",Los Simpson:En español
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIES & ANIMES" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Los Simpson:En español
 https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Margie%2C%20puedo%20acostarme%20con%20el%20peligro.mp4
 
-#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIES & ANIMES",Los Simpson:En español
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="" group-title="SERIES & ANIMES" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Los Simpson:En español
 https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Tal%20como%20no%20%C3%A9ramos.mp4
