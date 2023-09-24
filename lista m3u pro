@@ -41,32 +41,48 @@ https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sd
 #EXTINF:-1 tvg-id="ATV SUR" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="PERU", 12► ATV Sur
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #EXTINF:-1 tvg-id="WILLAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 13► Willax
-https://stream-03.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmhOvHoU034ja75MkenYSdAJ7sF5ekV7gIICytAb021iT)/dm/3/x7x4dgx/s/live-1.m3u8
+https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmlGQM_q3ZDmQNx2_5qZsB4jQpdm3fmoVUdhKNrw_vax4)/dm/3/x7x4dgx/s/live-1.m3u8
 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://pbs.twimg.com/profile_images/1529495753399357442/mU1hHYMj_400x400.jpg" group-title="PERU", 14► Canal N
-https://live.telelatinohd.com:8080/MTkwLjIzNi4yMDQuMjUz/197_.m3u8?token=_dmmo_T5a5luImTFwNM9cw&expires=1695415697
+https://lb6.mimundoworld.xyz/auth/IHIrhc7gqpxpDcu3f_xMBkzUCKo7gXqGgIDFatsG3zX9C9PI4wC-EcFkBc9Ej_Dkbqa9H5D9AC5q_kSht5k8LW9GVzDDeUrvznRmU0-BQA1fUPMRb8hX_nAMuRA5GLfnCc-8v63UZQhOPoXlUd1hv20b30Ckk2AMzgHN8TvtQZbv1tw_7qeOL0W6xN4e7UEil7_pNGvwxAiMSRXVLMG6Z2bju6KAmTuwodUl3Dt6JVfNahN4vAx_XFMbLwwBAs4E2-ETktwC1KNUe3QyRtGs0C9mLfJJMrSLMVQjqeo0WcFkIvNRTXSVi4HjrR22Xgk9W-twgMCPsui3RfV9Yx7R_3duJD5nv-PQBFHByZdsaplF_1vMDNExGyAd3PY4OmNjXutDqflvi82-yzqWozDsx4yTsOMFCaQTYEBR0VYXL5s5sdz4P3i7DiVMDZ_4FJmOYSCZUUhZFq3iuvmtgQhwCYg171qTaJuyDo3KIZfsFndK8lXsths4ZlP90beANYzFIktKX4SbxB7PBVpVIu7ESs6Y9B_jzdx_987NxWG8K7xE4d09o4KIw51xwm93-1Oon6Te9S2gNauH453EkHQATF8sgQBbN9gnlbd4DEPJ7vk
 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://pbs.twimg.com/profile_images/1529495753399357442/mU1hHYMj_400x400.jpg" group-title="PERU", 15► Canal N HD
-https://live.telelatinohd.com:8080/MTkwLjIzNi4yMDQuMjUz/304_.m3u8?token=qxdEKcZSuiVW0cdaeEDG6g&expires=1695416729
+https://lb6.mimundoworld.xyz/hls/PFPnmnGE27xu3h_qctIJSFzqOmU8BKCnBM_-F8NmBinwVo8KTOOIoliUo_Uli_eB3y_Z-2ijx5V32H7-uS3W9TJ9pgoSF2O20BgDFlHRdWytbPbwHUcFDKciyJBrbj5Z
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://pbs.twimg.com/profile_images/1529495753399357442/mU1hHYMj_400x400.jpg" group-title="PERU", 15► Canal N HD
+http://103.145.13.105:8080/live/Marco/A122/97830.m3u8
 
 #EXTINF:-1 tvg-id="EXITOSA TV" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="PERU", 16► Exitosa TV
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CANAL RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RPP_logo.png/617px-RPP_logo.png" group-title="PERU", 18► Canal RPP
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8?iptvgratis?chile.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-id="CANAL RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RPP_logo.png/617px-RPP_logo.png" group-title="PERU", 17► Canal RPP
+http://lb6.mimundoworld.xyz/auth/IHIrhc7gqpxpDcu3f_xMBnJbcQLlu66mXmT-UuA6A2aD0r-mYOIOq-1gFlLa8SFMg8kWJtoVasygilQt0OauBv3jMTCB7sNZwFIKxhhEfP78-EvbYdN_paqVVNnfBOO7RPlh16HOAFhI049Fq-E5epRYCvhfZdofi-FcHJ3AfsgRHn-R7hLmorztjy2F0E6r1QEym2YPOsn2mNrz95WoHdvP2cVFgDzq63rIU-NxSZn4eQwLoDJmrvUl4hrCJoU1mw-d7V6pKk06hpUtcYXDBMGfz3FpShFG1lY41U1Lzj25cpOdISqFdgGPaiRT6dOxLF-mjZZcRFiufKaz9lIrrX6IDC38sqwMTqPzpayKsnXNfNCfzHnqQD3j-_SIxyCOkBNPtkN951GoRDi8GcEn4xDnicugFsW-UKbyPhaqXl7xzeaGwEU9n65HFaItyvYpCOwJ1TVNRntzdJNAwNJBE6nFln8ILO29ltILFgaIIYsJ-_mc0kbgkcqkFQ1e9fKjhAR1RyyMpjDk8mOgiRIIjzX7XZ-Kt-TMcmwbf7E_A0SmPsVai6skLwlPUQGlrwFL0bkk4tDrrYpSkAIgBBqkHQ
 
-#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/zgEvssl.png" group-title="PERU", 19► Hatun TV Canal 99
+#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/zgEvssl.png" group-title="PERU", 18► Hatun TV Canal 99
 https://mi.godo.net.pe/Best00Hatum-0032101002/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="PERU", 20► Best Cable Peru Canal 3
+#EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="PERU", 19► Best Cable Peru Canal 3
 https://mi.godo.net.pe/BesTv-001120000100/index.m3u8
 
-#EXTINF:-1 tvg-id="CABLE VISION TV" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/LOGO-CVP_COLORES-2.png" group-title="PERU", 21► Cable Vision TV
+#EXTINF:-1 tvg-id="CABLE VISION TV" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/LOGO-CVP_COLORES-2.png" group-title="PERU", 20► Cable Vision TV
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-id="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="PERU", 21► Movistar Plus
+http://107.150.33.122:8080/live/Demo11/uyK6PkPXZV6E/304998.m3u8?token=SRJQUEJeRw4bBABaBgBWBVBTVgJSVwZZAFUCUgRTVg0BBAAEB1VTUFgSFUFFQkAEBQ85XAIQCQsGB11cWk1DTUFVSm5YUkcOGwMIUQAGEE1GFg9YAxAJCBoRFAwGQ1saAwkABgQUSRZcSE0GRFhTDTsGA0MPUVYaDF0RCQ5NQ1dcb1xUXFcLUBsKG1IUGhAIFxJEDwhHX1QaEQYMFhMATFcSAhMAAVUDGxwbAFlDXBUWG0QPRGdgGhoRAR0WBA9LW19WEwsUCAdMCBtPFF9BPhYHFUEUV1JVU0FGX0BRQxQQXVlJblUKWldVWhdfWVwSRlhEBkQeEVVZXQ0RDRM+SFtUGgsTDlIHDRJE
 
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/DyMCgdHZ/gentv.png" group-title="INTERNACIONAL", ARG: GEN TV
 https://inliveserver.com:1936/14056/14056/chunklist_w1284183641.m3u8
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/DyMCgdHZ/gentv.png" group-title="INTERNACIONAL", STAR CHANNEL
+https://usher.ttvnw.net/api/channel/hls/vkkurt29x.m3u8
 
 #EXTINF:-1 tvg-id="KARIBEÑA" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="MUSICA", 01► Karibeña
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
@@ -88,16 +104,16 @@ https://mi.godo.net.pe/best-Music-00112000050/index.m3u8
 #EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/zgEvssl.png" group-title="MUSICA", 07► Best Cable Mas Cumbia Canal 98
 https://mi.godo.net.pe/best-MasCum-0102210011/index.m3u8
 
-#EXTINF:-1 tvg-id="H TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="MUSICA", 08► HTV
-https://live.telelatinohd.com:8080/MzguMjUuMzAuMTgx/89_.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-id="HTV" tvg-logo="https://i.ibb.co/M88NzqH/Xly8mKUw.jpg" group-title="MUSICA", 08► HTV
+https://live.telelatinohd.com:8080/MzguMjUuMzAuMTgx/89_.m3u8?token=t1Ld24eDxpH-y50fZ41zSg&expires=1695533101
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://todotv.net/tv/img/Hit-tv.png" group-title="MUSICA", 09► Hit TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M88NzqH/Xly8mKUw.jpg" tvg-group="MUSICA", 09► HTV
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HTV)/1694157967856item-04item_Segment-13613163585721
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://todotv.net/tv/img/Hit-tv.png" group-title="MUSICA", 10► Hit TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M88NzqH/Xly8mKUw.jpg" tvg-group="MUSICA", 10► HTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/htv.json
-https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", 11► Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -153,16 +169,16 @@ http://69.30.193.106:8080/live/Demo11/uyK6PkPXZV6E/190616.m3u8?token=SRJQUEJeRw4
 http://tvlatino.club:2082/live/Demo11/uyK6PkPXZV6E/190616.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" tvg-group="D☆☆PERU DEPORTES", 06► GOL PERU
-https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=686
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 06► GOL PERU
+https://live.telelatinohd.com:8080/MzguMjUuMzAuMTgx/6_.m3u8?token=xzqu527seWnVxmkiPW_SUA&expires
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 07► GOL PERU
-http://103.145.13.105:8080/live/Marco1/A123/97783.m3u8
+https://live.telelatinohd.com:8080/MzguMjUuMzAuMTgx/6_.m3u8?token=xzqu527seWnVxmkiPW_SUA&expires=1695529388
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="☆☆PERU DEPORTES", 09► GOL PERU
-https://cdn2.tiogol.com/liveedge/live1/playlist.m3u8
+https://d23a1izvegnhq4.cloudfront.net/DczdjRlUQWA0gagdeB3tsRQ5Vf2FVXRApOwMKMAoUKkEOChw7WRsALTRBCWAhCVNea2BVWwIoMk5SEGsQIBJRBTAAEQYoNk4GRScxEQpTYCASCg4pLxpbDydwQXFWaGVWBVNuIhpZBykiABJRdjsHElF2ZEMZU2NmMRJRdiIaWVVycEB1RnRlCwFXb3BBBw-I2JR9SFCM3GF4XY2c1AlBxe0ABRnRlW1wLMjgfElEFcEEHDy8+FhJRdjIWVAgpfFYFUyU9AVgOI3BBcVJ3Y10HTXZ7QxJRdiYSUQI0PFYFJXNmRBlQcHMGClF0ZkIEUXJiRQJUdW1BBVo
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="☆☆PERU DEPORTES", 10► MOVISTAR DEPORTES
@@ -176,6 +192,10 @@ http://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=directvlive
 #EXTINF:-1 tvg-logo="https://tv.libre.futbol/img/logo-canal/DirecTV_Sports_2.png" group-title="☆☆DEPORTES PREMIUN", 02► DIRECTV SPORTS 2
 hhttps://pro7.proedge01.xyz/live/ST5a27c66312cf945.m3u8?id=1057
 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="☆☆DEPORTES PREMIUN", 01► FOX SPORTS 2
+https://pelivechannelsdash-1.clarovideo.com/bpk-tv/FOXSPORTS2HD/dash_fk/index.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w4n3ZSB/tntsportsar.png" group-title="☆☆DEPORTES PREMIUN", 03► TNT SPORTS AR 2
 https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=tntsportshd1
 
@@ -185,6 +205,10 @@ https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=tntchile
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kHj0xS7/tv-station-win-sports-plus-2457.png" group-title="☆☆DEPORTES PREMIUN", 05► WIN SPORTS PLUS
 https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=winlive
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D4XMJV0/espnar.png" group-title="☆☆DEPORTES PREMIUN", 06► ESPN
+http://107.150.33.122:8080/live/JuanC/SFqfnhEC3kvd/308806.m3u8?token=SRJQUEJeRw4bUw5QBgIBWFBaBFFUVgoAB1dUB1AFUAECAlpTAwEDUg4SFUFFQkAEBQ85XAIQCQsGC1xVVE1DTUFVSm5YUkcOGwMKUAcBEE1GFg9YAxAJCBoRFAwGQ1saAwEOCQIUSRZcSE0GRFhTDTsGA0MPUVYaDF0RCQ5NQ1dcb1xUXFcLUBsKG1IUGhAIFxJEDwhHX1QaEQYMFhMATFcSAl9EWgkYG1NWFlhCQBhGWERgNRAfGlNLEAAMEghXXBICE1wFEAwbHBsKRWlABBcWFFAHX1ZKFAlGVUBNQ1VTSGdSXlgLUVpEUAxYRRBbRlFEGURfXFZfRwsXPREIXBAKGgAAAFIMG00
 
 #EXTINF:-1 tvg-id="" tvg-name="PARANAMOUNT CHANEL" tvg-logo="https://i.ibb.co/WsBhsDZ/ar-paramount-channel-m.png" group-title="☆☆CINE PREMIUN", PARANAMOUNT +
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/600728952b1776000776526d/3063648/playlist.m3u8
